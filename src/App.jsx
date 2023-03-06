@@ -1,4 +1,5 @@
 import './App.css';
+import { ItemListContainer } from './componentes/ItemListContainer';
 import Navbar from "./componentes/navBar";
 
 function App() {
@@ -7,7 +8,7 @@ function App() {
   return (
     <div>
       <Navbar/>
-      <h1>Bienvenido a mi e-ecommece</h1>
+      <ItemListContainer text="Estos son los productos"/>
     </div>
   )
 }
