@@ -1,0 +1,222 @@
+[
+    {
+        "id": "1",
+        "titulo" : "Arvejas",
+        "imagen" : "/asset/imagenes/arvejas.jpg",
+        "categoria" : {
+            "id-c" : "legumbres"
+        },
+        "precio" : "120",
+        "descripcion" : "productos suelto",
+        "cantidad" : "0"
+    },
+    {
+        "id": "2",
+        "titulo" : "Poroto soja",
+        "imagen" : "/asset/imagenes/poroto-soja.jpg",
+        "categoria" : {
+            "id-c" : "legumbres"
+        },
+        "precio" : "150",
+        "descripcion" : "productos suelto",
+        "cantidad" : "0"
+    },
+    {
+        "id": "3",
+        "titulo" : "Garbanzos",
+        "imagen" : "/asset/imagenes/garbanzos.jpg",
+        "categoria" : {
+            "id-c" : "legumbres"
+        },
+        "precio" : "150",
+        "descripcion" : "productos suelto",
+        "cantidad" : "0"
+    },
+    {
+        "id": "4",
+        "titulo" : "Lentejas",
+        "imagen" : "./asset/imagenes/lentejas.jpg",
+        "categoria" : {
+            "id-c" : "legumbres"
+        },
+        "precio" : "160",
+        "descripcion" : "productos suelto",
+        "cantidad" : "0"
+    },
+    {
+        "id": "5",
+        "titulo" : "Mijo pelado",
+        "imagen" : "./asset/imagenes/mijo-pelado.jpg",
+        "categoria" : {
+            "id-c" : "legumbres"
+        },
+        "precio" : "140",
+        "descripcion" : "productos suelto",
+        "cantidad" : "0"
+    },
+    {
+        "id": "6",
+        "titulo" : "Te manzanilla",
+        "imagen" : "/asset/imagenes/te-manzanilla-oasis.jpg",
+        "categoria" : {
+            "id-c" : "te"
+        },
+        "precio" : "520",
+        "descripcion" : "Te de alta calidad",
+        "cantidad" : "0"
+    },
+    {
+        "id": "7",
+        "titulo" : "Te Negro",
+        "imagen" : "/asset/imagenes/te-negro-oasis.jpg",
+        "categoria" : {
+            "id-c" : "te"
+        },
+        "precio" : "510",
+        "descripcion" : "Te de alta calidad",
+        "cantidad" : "0"
+    },
+    {
+        "id": "8",
+        "titulo" : "Te Rojo",
+        "imagen" : "/asset/imagenes/te-rojo-oasis.jpg",
+        "categoria" : {
+            "id-c" : "te"
+        },
+        "precio" : "520",
+        "descripcion" : "te de alta calidad",
+        "cantidad" : "0"
+    },
+    {
+        "id": "9",
+        "titulo" : "Te Tilo",
+        "imagen" : "/asset/imagenes/te-tilo-oasis.jpg",
+        "categoria" : {
+            "id-c" : "te"
+        },
+        "precio" : "530",
+        "descripcion" : "te de alta calidad",
+        "cantidad" : "0"
+    },
+    {
+        "id": "10",
+        "titulo" : "Te Verde",
+        "imagen" : "/asset/imagenes/te-verde-oasis.jpg",
+        "categoria" : {
+            "id-c" : "te"
+        },
+        "precio" : "510",
+        "descripcion" : "te de alta calidad",
+        "cantidad" : "0"
+    },
+    {
+        "id": "11",
+        "titulo" : "Almendras",
+        "imagen" : "/asset/imagenes/almendras.jpg",
+        "categoria" : {
+            "id-c" : "frutos secos"
+        },
+        "precio" : "350",
+        "descripcion" : "Almendras sueltas",
+        "cantidad" : "0"
+    },
+    {
+        "id": "12",
+        "titulo" : "Nueces",
+        "imagen" : "/asset/imagenes/nueces-mariposa.jpg",
+        "categoria" : {
+            "id-c" : "frutos secos"
+        },
+        "precio" : "360",
+        "descripcion" : "Nueces importadas",
+        "cantidad" : "0"
+    },
+    {
+        "id": "13",
+        "titulo" : "Avellanas",
+        "imagen" : "/asset/imagenes/avellanas.jpg",
+        "categoria" : {
+            "id-c" : "frutos secos"
+        },
+        "precio" : "380",
+        "descripcion" : "Avellanas importadas",
+        "cantidad" : "0"
+    },
+    {
+        "id": "14",
+        "titulo" : "Pasas de uva",
+        "imagen" : "/asset/imagenes/pasas-de-uva.jpg",
+        "categoria" : {
+            "id-c" : "frutos secos"
+        },
+        "precio" : "290",
+        "descripcion" : "pasas jumbo",
+        "cantidad" : "0"
+    },
+    {
+        "id": "15",
+        "titulo" : "Mix frutos naturales",
+        "imagen" : "/asset/imagenes/mix-frutos-naturales.jpg",
+        "categoria" : {
+            "id-c" : "frutos secos"
+        },
+        "precio" : "650",
+        "descripcion" : "mix almendras,nueces,pasas,castañas de caju",
+        "cantidad" : "0"
+    },
+    {
+        "id": "16",
+        "titulo" : "Galletita granix",
+        "imagen" : "/asset/imagenes/granix-galletita.jpg",
+        "categoria" : {
+            "id-c" : "envazado"
+        },
+        "precio" : "300",
+        "descripcion" : "Galletita de avena",
+        "cantidad" : "0"
+    },
+    {
+        "id": "17",
+        "titulo" : "Mermelada cabaña mico",
+        "imagen" : "/asset/imagenes/mermelada-cabaña.jpg",
+        "categoria" : {
+            "id-c" : "envazado"
+        },
+        "precio" : "450",
+        "descripcion" : "Mermelada de Frambuesa",
+        "cantidad" : "0"
+    },
+    {
+        "id": "18",
+        "titulo" : "Pimiento morron",
+        "imagen" : "/asset/imagenes/",
+        "categoria" : {
+            "id-c" : "envazado"
+        },
+        "precio" : "500",
+        "descripcion" : "Pimientos morrones envazados",
+        "cantidad" : "0"
+    },
+    {
+        "id": "19",
+        "titulo" : "Tostadas de Arroz",
+        "imagen" : "/asset/imagenes/tostadas-arroz.jpg",
+        "categoria" : {
+            "id-c" : "envazado"
+        },
+        "precio" : "250",
+        "descripcion" : "tostadas de arroz Molinos ala",
+        "cantidad" : "0"
+    },
+    {
+        "id": "20",
+        "titulo" : "Aceite de oliva",
+        "imagen" : "/asset/imagenes/aceite-de-oliva.jpg",
+        "categoria" : {
+            "id-c" : "envazado"
+        },
+        "precio" : "700",
+        "descripcion" : "aceite de oliva virgen",
+        "cantidad" : "0"
+    }
+]

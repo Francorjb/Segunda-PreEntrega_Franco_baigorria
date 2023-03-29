@@ -1,11 +1,13 @@
-const ProductsList = () => {
+function Productos({products}) {
   return (
-    <div>
-        {Products.map((Product) =>{
-            <h3>{producto.status}</h3>
-        })}
-    </div>
+      <div>
+          {
+              products.map((productos)=>(
+                  <h3>{productos.title}</h3>
+              ))
+          }
+      </div>
   )
 }
 
-export default ProductsList
+export default Productos
