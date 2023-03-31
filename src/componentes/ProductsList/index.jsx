@@ -1,13 +1,16 @@
+import Card from "../ItemListContainer/index";
+import style from"./productos.module.css";
+
 function Productos({products}) {
-  return (
-      <div>
-          {
-              products.map((productos)=>(
-                  <h3>{productos.title}</h3>
-              ))
-          }
-      </div>
-  )
+    return (
+        <div className={style.container}>
+            {
+            products.map((productos)=>(
+                <Card key={productos.id} products={productos}/>
+            ))
+        }
+        </div>
+    )
 }
 
-export default Productos
+export default Productos;

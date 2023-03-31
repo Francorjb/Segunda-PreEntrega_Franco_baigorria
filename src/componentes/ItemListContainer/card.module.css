@@ -1,0 +1,21 @@
+.container{
+    border:outset 2px rgb(117, 25, 25);
+    border-radius: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    width: 450px;
+    height: 500px;
+    gap: 13px;
+    flex-wrap: nowrap;
+}
+.container img{
+    max-width: 75%;
+    border-radius: 5%;
+}
+.container p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color:rgb(117, 25, 25);
+}

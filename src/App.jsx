@@ -1,9 +1,9 @@
 import './App.css';
 import { useEffect, useState } from 'react';
 import { Route, Routes } from 'react-router-dom';
-import { ItemListContainer } from './componentes/ItemListContainer';
 import  Navbar  from "./componentes/NavBar";
 import  Productos  from "./componentes/ProductsList";
+import Item from './componentes/ProductItem';
 
 
 function App() {
@@ -18,10 +18,10 @@ function App() {
   return (
     <div>
         <Navbar/>
-        <ItemListContainer text="Pagina de prueba"/>
-        <Routes>
-          <Route path="/home" element={<p>hola bienvenido a mi dietetica</p>} />
+        <Routes >
+          <Route path="/" element={<p>hola bienvenido a mi dietetica</p>} />
           <Route path='/productos' element={< Productos products={products} />}/>
+          <Route  path='/productos/:id' element={<Item products={products}/> }/>
           <Route path='/contacto' />
         </Routes>
     </div>
